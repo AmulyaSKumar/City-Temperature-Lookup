@@ -1,0 +1,5 @@
+Mysore,23,32
+Bangalore,32,45
+Kollegal,33,44
+Udupi,20,35
+Mandya,35,45
